@@ -25,8 +25,7 @@ int main()
 	return 0;
 }
 
-void print()
-{
+void print(){
 	for (int i = 1; i <= 100; i++)
 	{
 
