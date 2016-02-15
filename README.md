@@ -3,13 +3,13 @@ written in visual basic 2015
 
 
 
-Auther  : Matthew Hunter
-Date    : 2/15/2016
-Purpose : To print out numbers from 1 to 100. If the number
+Auther   Matthew Hunter
+Date     2/15/2016
+Purpose  To print out numbers from 1 to 100. If the number
           is divisible 3 print "fizz" or if the number is 
-		  divisible by 5 print "buzz" or if the number is 
-		  both divisible by 3 and 5 print "fizz buzz" else
-		  just print the number.
+	  divisible by 5 print "buzz" or if the number is 
+	  both divisible by 3 and 5 print "fizz buzz" else
+	  just print the number.
 
 
 include <iostream>
